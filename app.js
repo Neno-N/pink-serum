@@ -81,7 +81,6 @@ prevBtn.addEventListener('click',()=>{
 
 
 })
-
 /*======= Functions =======*/
 
 /*======= Preloaders =======*/
